@@ -34,7 +34,7 @@ html, body{
 
 .container{
     .header{
-        background: url(../img/header_r.jpg) center fixed no-repeat;
+        background: url(../img/header.jpg) center fixed no-repeat;
         background-size: cover;
         height: 100vh;
         
@@ -208,7 +208,7 @@ html, body{
     }
 
     .section_one{
-        margin: -6em 1em 4em 1em;
+        margin: -4em 1em 4em 1em;
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
         grid-gap: 10px;
